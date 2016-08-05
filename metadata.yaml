@@ -1,0 +1,27 @@
+_repo: Home-Again_8924
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Christian fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Home Again
+url: http://www.gutenberg.org/ebooks/8924
